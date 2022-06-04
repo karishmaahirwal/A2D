@@ -9,14 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quatics/sacredheartbackend.git"
+    "url": "git+https://github.com/karishmaahirwal/A2D.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Quatics/sacredheartbackend/issues"
+
+    "url":"https://github.com/karishmaahirwal/A2D/issues"
   },
-  "homepage": "https://github.com/Quatics/sacredheartbackend#readme",
+  "homepage": "https://github.com/karishmaahirwal/A2D#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bookidgen": "^1.0.7",
