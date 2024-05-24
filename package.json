@@ -14,8 +14,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-
-    "url":"https://github.com/karishmaahirwal/A2D/issues"
+    "url": "https://github.com/karishmaahirwal/A2D/issues"
   },
   "homepage": "https://github.com/karishmaahirwal/A2D#readme",
   "dependencies": {
@@ -29,7 +28,7 @@
     "helmet": "^5.0.2",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.2",
-    "mongoose": "^6.2.10",
+    "mongoose": "^6.12.8",
     "nodemon": "^2.0.16",
     "web-push": "^3.4.5"
   }
